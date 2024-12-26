@@ -1,9 +1,8 @@
+<div>
 ## Hi there!
 ## Welcome to my Github
-<!-- <a href="https://github.com/ruzhan05/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05&hide=dart" />
-</a>
--->
+</div>
+
 <div align="center">
   <a href="https://github.com/ruzhan05/github-readme-stats">
     <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05&hide=dart&theme=merko&border_radius=10" />
