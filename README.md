@@ -1,4 +1,5 @@
-## Hi there, Welcome to my Github
+## Hi there!
+## Welcome to my Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05)](https://github.com/ruzhan05/github-readme-stats)
 
