@@ -7,11 +7,6 @@
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/ruzhan05/Grants-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruzhan05&repo=Grants-dashboard" />
-  </a>
-</div>
 <!--
 **ruzhan05/ruzhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
