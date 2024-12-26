@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ruzhan05/github-readme-stats">
-    <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05&hide=dart&custom_title=My Most Used Languages&theme=merko&border_radius=10" />
+    <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05&hide=dart&custom_title=My%20Most%20Used%20Languages
+&theme=merko&border_radius=10" />
   </a>
 </div>
 
