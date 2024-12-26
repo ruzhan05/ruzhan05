@@ -1,7 +1,4 @@
-<div>
-## Hi there!
-## Welcome to my Github
-</div>
+## Hi there! Welcome to my Github
 
 <div align="center">
   <a href="https://github.com/ruzhan05/github-readme-stats">
