@@ -1,7 +1,7 @@
 ## Hi there!
 ## Welcome to my Github
 <a href="https://github.com/ruzhan05/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05&hide=dart" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05&hide=dart" />
 </a>
 
 <!--
