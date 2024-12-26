@@ -1,7 +1,7 @@
 ## Hi there!
 ## Welcome to my Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05)](https://github.com/ruzhan05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzhan05&hide=dart)](https://github.com/ruzhan05/github-readme-stats)
 
 <!--
 **ruzhan05/ruzhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
